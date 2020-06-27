@@ -1,0 +1,41 @@
+.main{
+    border: 2px solid grey;
+    width: 195px;
+    margin: 2px auto;
+    border-radius: 15px;
+    background-color: lightgrey;
+}
+.res{
+    margin-top: 5px;
+    border-radius: 20px;
+    margin: 0 auto;
+}
+.res1{
+    margin-top: 5px;
+    border-radius: 20px;
+}
+.Btn{
+    margin: 1px;
+    margin-left: 4px;
+}
+.btn-secondary{
+    width: 40px;
+    border-radius: 20px !important;
+    margin: 1px;
+    margin-top: 4px;
+}
+.btn-info{
+    width: 40px;
+    border-radius: 20px !important;
+    margin: 1px;
+    margin-top: 4px;
+}
+.btn-light{
+    width: 40px;
+    border-radius: 20px !important;
+    margin: 1px;
+    margin-top: 4px;
+}
+.l5{
+    margin-left: 48px;
+}
